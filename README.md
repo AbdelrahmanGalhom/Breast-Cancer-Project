@@ -72,20 +72,6 @@ Here is an example of how to make a request to the `/predict` endpoint:
 curl -X POST "http://127.0.0.1:8000/predict" -H "Content-Type: application/json" -d '{"feature1": value1, "feature2": value2, ...}'
 ```
 
-## Contributing
-
-To contribute to this project, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature-branch`.
-3. Make your changes and commit them: `git commit -m 'Add some feature'`.
-4. Push to the branch: `git push origin feature-branch`.
-5. Submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
-
 ## Contact
 
-If you have any questions or suggestions, feel free to contact the project maintainer at [your-email@example.com].
+If you have any questions or suggestions, feel free to contact the project maintainer at [abdelrahman.galhom@ejust.edu.eg].

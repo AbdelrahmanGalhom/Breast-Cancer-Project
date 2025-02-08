@@ -74,4 +74,4 @@ curl -X POST "http://127.0.0.1:8000/predict" -H "Content-Type: application/json"
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact the project maintainer at [abdelrahman.galhom@ejust.edu.eg].
+If you have any questions or suggestions, feel free to contact the project maintainer at abdelrahman.galhom@ejust.edu.eg.
